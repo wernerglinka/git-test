@@ -1,0 +1,17 @@
+{
+  "title": "site title",
+  "description": "site descrption",
+  "author": "site email",
+  "siteURL": "https://my-site.com",
+  "siteOwner": "site owner name",
+  "validate": {
+    "google": "",
+    "ms": ""
+  },
+  "social": {
+    "twitter": "@my-twitter",
+    "linkedIn": "",
+    "github": ""
+  },
+  "socialImage": ""
+}

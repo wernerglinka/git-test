@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+  height: auto;
+
+  & + em {
+    font-size: 0.7em;
+  }
+}
+
+.main-image {
+  & .image-wrapper.section-inner {
+    padding: 0 var(--default-content-padding);
+  }
+}
+
+.image .caption {
+  font-size: 0.7em;
+  font-style: italic;
+}

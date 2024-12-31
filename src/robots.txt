@@ -1,0 +1,15 @@
+# robot.txt
+# Allows all usert agents to access every page on the site. Access to individual
+# pages is determined by their repective meta robots tags.
+#
+# To learn more about the robots.txt standard, please see:
+# http://www.robotstxt.org/orig.html
+# For a very complex example see https://hp.com/robots.txt
+# 
+# If a more complex robots.txt file is implemented, the metatags in the page head 
+# should be removed.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.example.com/sitemap.xml
