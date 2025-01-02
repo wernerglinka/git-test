@@ -5,7 +5,7 @@
   "siteURL": "https://my-site.com",
   "siteOwner": "site owner name",
   "validate": {
-    "google": "",
+    "google": "A!B@D#",
     "ms": ""
   },
   "social": {
