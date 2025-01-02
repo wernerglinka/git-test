@@ -27,7 +27,7 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: Second Page
+      title: Second Pagelein
       header: h1
       subtitle: Ora et labora and have some fun too
       prose: ""
