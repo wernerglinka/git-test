@@ -27,7 +27,7 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: Metalsmith First
+      title: Metalsmith First Yada Yada
       header: h1
       subtitle: The only starter you'll EVER need. No more others...
       prose: >-
