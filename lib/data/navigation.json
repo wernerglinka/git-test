@@ -1,14 +1,14 @@
-[
-  {
+{
+  "0": {
     "label": "Home",
     "url": "/"
   },
-  {
+  "1": {
     "label": "Second",
     "url": "/second"
   },
-  {
-    "label": "Third",
+  "2": {
+    "label": "ThirtyOne",
     "url": "/third"
   }
-]
+}
