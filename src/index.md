@@ -27,9 +27,9 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: Metalsmith First Yada Yada
+      title: Metalsmith First
       header: h1
-      subtitle: The only starter you'll EVER need. No more others...
+      subtitle: The only starter you'll EVER need.
       prose: >-
         Hey there! So, you stumbled upon the Metalsmith First Starter. It is
         pretty opinionated, reflecting all the choices made over the time I've
