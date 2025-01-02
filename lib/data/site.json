@@ -5,8 +5,8 @@
   "siteURL": "https://my-site.com",
   "siteOwner": "site owner name",
   "validate": {
-    "google": "hoofpuff",
-    "ms": "123wder456"
+    "google": "",
+    "ms": ""
   },
   "social": {
     "twitter": "@my-twitter",
