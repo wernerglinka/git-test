@@ -2,8 +2,8 @@
   "title": "site title",
   "description": "site descrption",
   "author": "site email",
+  "siteOwner": "ronnie the rendeer",
   "siteURL": "https://my-site.com",
-  "siteOwner": "santa claus",
   "validate": {
     "google": "",
     "ms": ""
