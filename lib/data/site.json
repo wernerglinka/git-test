@@ -1,8 +1,8 @@
 {
   "title": "site title",
   "description": "site descrption",
+  "siteOwner": "elvis",
   "author": "site email",
-  "siteOwner": "john lennon",
   "siteURL": "https://my-site.com",
   "validate": {
     "google": "",
