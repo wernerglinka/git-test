@@ -1,7 +1,7 @@
 ---
 layout: sections.njk
 draft: false
-navLabel: Second
+navLabel: Second Page
 bodyClasses: second-page better-page
 access:
   noIndex: false
